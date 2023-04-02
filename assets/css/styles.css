@@ -19,3 +19,10 @@ body {
 .max-content {
   width: max-content;
 }
+.navbar-army {
+  background-color: rgb(78, 160, 34);
+}
+nav-item :hover {
+  font-size: bold;
+  color: white;
+}
