@@ -26,3 +26,13 @@ nav-item :hover {
   font-size: bold;
   color: white;
 }
+.top-35 {
+  top: 35% !important;
+}
+.read-more {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: black;
+}
