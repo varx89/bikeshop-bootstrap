@@ -36,3 +36,11 @@ nav-item :hover {
   text-align: center;
   background-color: rgb(21, 44, 27);
 }
+.hero-media {
+  height: auto;
+}
+@media screen and (max-width: 907px) {
+  .hero-media {
+    height: 500px;
+  }
+}
